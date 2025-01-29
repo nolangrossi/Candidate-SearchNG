@@ -54,7 +54,7 @@ Video Walkthrough of the application: [Walkthrough](https://drive.google.com/fil
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create.
+Contributions are what make the open source community such an amazing place to learn and grow.
 
 
 1. Fork the Project
